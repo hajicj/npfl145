@@ -1,2 +1,3 @@
-# npfl145
-Practicum in Computational Music Processing materials
+# NPFL145 Course Materials
+
+This repository holds the materials common to the course.
